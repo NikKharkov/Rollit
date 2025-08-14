@@ -1,10 +1,5 @@
 # 🎲 Roll It! – Randomizer App
 
-![Platform](https://img.shields.io/badge/platform-Android-green?logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue?logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2025.02.00-purple?logo=jetpackcompose)
-![License](https://img.shields.io/badge/license-MIT-yellow)
-
 **Roll It!** is a sleek and lightweight Android app built with **Jetpack Compose** that helps you  
 add a pinch of randomness to your life.  
 Whether you need to roll dice, pick a random number, or select an item from a list – Roll It! has you covered.
