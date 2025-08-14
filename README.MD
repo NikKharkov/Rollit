@@ -15,9 +15,6 @@ Whether you need to roll dice, pick a random number, or select an item from a li
 - [✨ Features](#-features)
 - [📱 Screenshots](#-screenshots)
 - [🛠 Tech Stack](#-tech-stack)
-- [📦 Installation](#-installation)
-- [🚀 Usage](#-usage)
-- [📄 License](#-license)
 
 ---
 
